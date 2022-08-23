@@ -1,6 +1,5 @@
-import './App.css';
 import React,{useState} from 'react';
-
+import './App.css';
 
 function App() {
   const [time , setTime]= useState(25);
